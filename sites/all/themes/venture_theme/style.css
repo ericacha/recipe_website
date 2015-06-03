@@ -236,13 +236,14 @@ html[xmlns] .slides {display: block;}
 ----------------------------------------------- */
 
 .node h2.title{
-  font-size: 1.750em;
+  font-size: 1em;
   margin: 0;
+  color: blue;
 }
 
 h1.page-title {
   margin: 5px 0 10px;
-  font-size: 2em;
+  font-size: 1em;
 }
 
 #content .node-teaser {
